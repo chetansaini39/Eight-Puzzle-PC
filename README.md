@@ -9,3 +9,6 @@ Eight puzzle game demo. This demo demonstrates & compares the following search a
 ### The program also demonstrate the use of following two heuristic
 1. Manhattan Distance
 2. Number of tiles out of place.
+
+#### Compiling
+Use Netbeans IDE with JDK 8 to compile and run the code
